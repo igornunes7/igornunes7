@@ -11,13 +11,13 @@
 </a>
 <br>
 <br>
-> <i>Olá, sou Igor Nunes, atualmente sou desenvolvedor de software front-end. Sou um entusiasta e curioso por tecnologia, que anseia por se tornar um desenvolvedor web fullstack.</i>
+> <i>Olá, sou Igor Nunes, atualmente sou desenvolvedor de software front-end e back-end. Sou um entusiasta e curioso por tecnologia, que anseia por se tornar um desenvolvedor fullstack.</i>
 </br>
 <br>
-> <i>Hi, I'm Igor Nunes, currently I'm a front-end software developer. I'm an enthusiast and curious about technology, who's looking forward to become a web fullstack developer.</i>
+> <i>Hello, I'm Igor Nunes, I'm currently a front-end and back-end software developer. I'm a tech enthusiast and curious who yearns to become a fullstack developer.</i>
 </br>
 <br>
-> <i>Hola, soy Igor Nunes, actualmente soy desarrollador de software front-end. Soy un entusiasta de la tecnología y tengo curiosidad por convertirme en un desarrollador web fullstack.</i>
+> <i>Hola, soy Igor Nunes, actualmente soy desarrollador de software front-end y back-end. Soy un entusiasta de la tecnología y curioso que anhela convertirme en un desarrollador fullstack.</i>
 </br>
 
 <br>
