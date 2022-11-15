@@ -11,18 +11,18 @@
 </a>
 <br>
 <br>
-> Olá, sou Igor Nunes, atualmente sou desenvolvedor de software front-end. Sou um entusiasta e curioso por tecnologia, que anseia por se tornar um desenvolvedor web fullstack.
+> <i>Olá, sou Igor Nunes, atualmente sou desenvolvedor de software front-end. Sou um entusiasta e curioso por tecnologia, que anseia por se tornar um desenvolvedor web fullstack.</i>
 </br>
 <br>
-> Hi, I'm Igor Nunes, currently I'm a front-end software developer. I'm an enthusiast and curious about technology, who's looking forward to become a web fullstack developer.
+> <i>Hi, I'm Igor Nunes, currently I'm a front-end software developer. I'm an enthusiast and curious about technology, who's looking forward to become a web fullstack developer.</i>
 </br>
 <br>
-> Hola, soy Igor Nunes, actualmente soy desarrollador de software front-end. Soy un entusiasta de la tecnología y tengo curiosidad por convertirme en un desarrollador web fullstack.
+> <i>Hola, soy Igor Nunes, actualmente soy desarrollador de software front-end. Soy un entusiasta de la tecnología y tengo curiosidad por convertirme en un desarrollador web fullstack.</i>
 </br>
 
 <br>
 </br>
-Languages and tools:  
+<b>Languages and tools:</b> 
 <br></br>
 <code><img height="20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
