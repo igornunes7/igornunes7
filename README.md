@@ -9,7 +9,7 @@
 </a>
 
 <br></br>
-Hi! my name is Igor Nunes, I'm 20 years old and I'm a back-end developer.
+Hi! My name is Igor Nunes, I'm 20 years old and I'm a back-end developer.
 <br></br>
 <i>📈  Languages and tools:</i>  
 <br></br>
