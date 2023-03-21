@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://www.instagram.com/nunesigor__">
-  <img align="left" alt="Igor's INStagram" width="25px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/45px/instagram.png" />
+  <img align="left" alt="Igor's INStagram" width="35px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/45px/instagram.png" />
 </a>
 
 <br></br>
