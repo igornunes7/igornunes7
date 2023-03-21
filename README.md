@@ -30,4 +30,6 @@ Hi! My name is Igor Nunes, I'm 20 years old and I'm a back-end developer.
 <a href="https://github.com/igornunes7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igornunes7&layout=compact&theme=gotham&hide_border=true"/></a>
 </div>
 
+##
 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
