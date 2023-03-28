@@ -25,9 +25,9 @@ Hi! My name is Igor Nunes, I'm 20 years old and I'm a back-end developer.
 <br></br>
 
 <div>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=igornunes7&show_icons=true&theme=gotham" alt="igornunes7" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=igornunes7&show_icons=true&theme=midnight-purple" alt="igornunes7" />
 <br></br>
-<a href="https://github.com/igornunes7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igornunes7&layout=compact&theme=gotham&hide_border=true"/></a>
+<a href="https://github.com/igornunes7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igornunes7&layout=compact&theme=midnight-purple&hide_border=true"/></a>
 </div>
 
 ##
