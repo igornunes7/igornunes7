@@ -32,4 +32,4 @@ Hi! My name is Igor Nunes, I'm 20 years old and I'm a back-end developer.
 
 ##
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/igornunes7/igornunes7/blob/output/github-contribution-grid-snake.svg)
