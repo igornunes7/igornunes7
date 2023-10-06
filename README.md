@@ -19,6 +19,8 @@ Hi! My name is Igor Nunes, I'm 20 years old and I'm a back-end developer.
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GoLang.svg"></code>
+
 </div>
 
 <br></br>
