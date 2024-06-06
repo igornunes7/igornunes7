@@ -43,5 +43,3 @@ Hi! My name is Igor Nunes, I'm 21 years old and I'm a back-end developer.
 </div>
 
 ##
-
-  ![Snake animation](https://github.com/igornunes7/igornunes7/blob/output/github-contribution-grid-snake.svg)
