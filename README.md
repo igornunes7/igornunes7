@@ -9,7 +9,7 @@
 </a>
 
 <br></br>
-Hi! My name is Igor Nunes, I'm 22 years old and I'm a Junior Front-End/Back-end Developer.
+Hi! My name is Igor Nunes, I'm 22 years old and I'm a Front-End/Back-end Developer.
 <br></br>
 
 
