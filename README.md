@@ -4,10 +4,6 @@
   <img align="left" alt="Igor's LinkedIN" width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" />
 </a>
 
-<a href="https://www.instagram.com/nunesigor__">
-  <img align="left" alt="Igor's INStagram" width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/45px/instagram.png" />
-</a>
-
 <br></br>
 Hi! My name is Igor Nunes, I'm 22 years old and I'm a Front-End/Back-end Developer.
 <br></br>
