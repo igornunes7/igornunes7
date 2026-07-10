@@ -18,7 +18,7 @@
 <br>
 
 <p>
-  Hi! I'm <strong>Igor Nunes</strong>, 22 years old, a
+  Hi! I'm <strong>Igor Nunes</strong>, 23 years old, a
   <strong>Front-End / Back-End Developer</strong>.
 </p>
 
